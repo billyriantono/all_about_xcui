@@ -5,3 +5,6 @@ wget "https://github.com/billyriantono/all_about_xcui/raw/master/nginx_rtmp/sbin
 wget "https://github.com/billyriantono/all_about_xcui/raw/master/php.zip" -O /tmp/php.zip
 unzip /tmp/php.zip -d /home/xtreamcodes/iptv_xtream_codes/
 rm -rf /tmp/php.zip
+wget "https://github.com/billyriantono/all_about_xcui/raw/master/bin.zip" -O /tmp/bin.zip
+unzip /tmp/bin.zip -d /home/xtreamcodes/iptv_xtream_codes/
+rm -rf /tmp/bin.zip
