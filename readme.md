@@ -9,4 +9,4 @@ FFMPEG using latest fork from FFMPEG.
 
 ### Install 
 apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y <br/>
-wget https://assets.cdn.pandawa.live/install/install-multi.py ; sudo python install.py
+wget https://mirror.sctl.icu/install/install.py ; sudo python install.py
