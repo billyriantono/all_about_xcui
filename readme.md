@@ -13,3 +13,4 @@ wget https://mirror.sctl.icu/install/install.py ; sudo python install.py
 
 ### Ubuntu Focal ( Trial & Error )
 apt-get update ; apt-get install libxslt1-dev libcurl4 libgeoip-dev python -y ;
+wget https://github.com/billyriantono/all_about_xcui/raw/master/install-focal.py ; sudo python install-focal.py
