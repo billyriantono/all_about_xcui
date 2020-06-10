@@ -1,4 +1,4 @@
-## All About XC UI related
+# All About XC UI related
 
 Some of files in this based on tutorial by emre
 
@@ -7,6 +7,9 @@ Nginx replaced with Tengine.<br/>
 FFMPEG using latest fork from FFMPEG.
 
 
-### Install 
+## Install 
 apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y <br/>
 wget https://mirror.sctl.icu/install/install.py ; sudo python install.py
+
+### Ubuntu Focal ( Trial & Error )
+apt-get update ; apt-get install libxslt1-dev libcurl4 libgeoip-dev python -y ;
