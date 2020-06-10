@@ -10,7 +10,7 @@ FFMPEG using latest fork from FFMPEG.
 ## Install 
 ### Ubuntu Bionic (18.04)
 ```bash
-apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y <br/>
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ;
 wget https://mirror.sctl.icu/install/install.py ; sudo python install.py
 ```
 
